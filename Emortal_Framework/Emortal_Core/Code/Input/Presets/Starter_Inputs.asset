@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0a2523593393ba4baca068fa2dbe768, type: 3}
+  m_Name: Starter_Inputs
+  m_EditorClassIdentifier: 
+  m_Inputs:
+  - {fileID: 114260601021274900}
+  - {fileID: 114647687156538648}
+--- !u!114 &114260601021274900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e73ed49a104043740a7445144cc4d94c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputName: Keyboard
+  m_InputType: 0
+  m_HorizontalInput: Horizontal
+  m_VerticalInput: Vertical
+  m_XAxis: Mouse X
+  m_YAxis: Mouse Y
+  parentScheme: {fileID: 11400000}
+  runPressed: 304
+  jumpPressed: 32
+  jumpHold: 32
+  shootPressed: 0
+  nextWeaponPressed: 9
+  aimPressed: 1
+  reloadPressed: 114
+  jetpackPressed: 102
+  pausePressed: 112
+  melePressed: 101
+  changeCameraPressed: 99
+--- !u!114 &114647687156538648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e14f4fc8407c964a8f0bb0cbcc3cd04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputName: Xbox
+  m_InputType: 1
+  m_HorizontalInput: Horizontal
+  m_VerticalInput: Vertical
+  m_XAxis: 4ThAxis
+  m_YAxis: 5ThAxis
+  parentScheme: {fileID: 11400000}
+  runPressed: 9
+  jumpPressed: 0
+  jumpHold: 0
+  reloadPressed: 2
+  nextWeaponPressed: 3
+  jetpackPressed: 5
+  shootPressed: 10ThAxis
+  aimPressed: 9ThAxis
+  pausePressed: 7
+  melePressed: 2
+  changeCameraPressed: 4

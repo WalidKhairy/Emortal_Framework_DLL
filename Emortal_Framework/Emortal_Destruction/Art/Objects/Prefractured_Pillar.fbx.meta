@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: afdbb66492adf804da64833c1445941b
+timeCreated: 1494357097
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Pillar_Part1
+    100002: Pillar_Part10
+    100004: Pillar_Part11
+    100006: Pillar_Part12
+    100008: Pillar_Part13
+    100010: Pillar_Part14
+    100012: Pillar_Part15
+    100014: Pillar_Part16
+    100016: Pillar_Part17
+    100018: Pillar_Part18
+    100020: Pillar_Part19
+    100022: Pillar_Part2
+    100024: Pillar_Part20
+    100026: Pillar_Part21
+    100028: Pillar_Part22
+    100030: Pillar_Part23
+    100032: Pillar_Part24
+    100034: Pillar_Part25
+    100036: Pillar_Part26
+    100038: Pillar_Part27
+    100040: Pillar_Part28
+    100042: Pillar_Part29
+    100044: Pillar_Part3
+    100046: Pillar_Part30
+    100048: Pillar_Part4
+    100050: Pillar_Part5
+    100052: Pillar_Part6
+    100054: Pillar_Part7
+    100056: Pillar_Part8
+    100058: Pillar_Part9
+    100060: //RootNode
+    400000: Pillar_Part1
+    400002: Pillar_Part10
+    400004: Pillar_Part11
+    400006: Pillar_Part12
+    400008: Pillar_Part13
+    400010: Pillar_Part14
+    400012: Pillar_Part15
+    400014: Pillar_Part16
+    400016: Pillar_Part17
+    400018: Pillar_Part18
+    400020: Pillar_Part19
+    400022: Pillar_Part2
+    400024: Pillar_Part20
+    400026: Pillar_Part21
+    400028: Pillar_Part22
+    400030: Pillar_Part23
+    400032: Pillar_Part24
+    400034: Pillar_Part25
+    400036: Pillar_Part26
+    400038: Pillar_Part27
+    400040: Pillar_Part28
+    400042: Pillar_Part29
+    400044: Pillar_Part3
+    400046: Pillar_Part30
+    400048: Pillar_Part4
+    400050: Pillar_Part5
+    400052: Pillar_Part6
+    400054: Pillar_Part7
+    400056: Pillar_Part8
+    400058: Pillar_Part9
+    400060: //RootNode
+    2300000: Pillar_Part1
+    2300002: Pillar_Part10
+    2300004: Pillar_Part11
+    2300006: Pillar_Part12
+    2300008: Pillar_Part13
+    2300010: Pillar_Part14
+    2300012: Pillar_Part15
+    2300014: Pillar_Part16
+    2300016: Pillar_Part17
+    2300018: Pillar_Part18
+    2300020: Pillar_Part19
+    2300022: Pillar_Part2
+    2300024: Pillar_Part20
+    2300026: Pillar_Part21
+    2300028: Pillar_Part22
+    2300030: Pillar_Part23
+    2300032: Pillar_Part24
+    2300034: Pillar_Part25
+    2300036: Pillar_Part26
+    2300038: Pillar_Part27
+    2300040: Pillar_Part28
+    2300042: Pillar_Part29
+    2300044: Pillar_Part3
+    2300046: Pillar_Part30
+    2300048: Pillar_Part4
+    2300050: Pillar_Part5
+    2300052: Pillar_Part6
+    2300054: Pillar_Part7
+    2300056: Pillar_Part8
+    2300058: Pillar_Part9
+    3300000: Pillar_Part1
+    3300002: Pillar_Part10
+    3300004: Pillar_Part11
+    3300006: Pillar_Part12
+    3300008: Pillar_Part13
+    3300010: Pillar_Part14
+    3300012: Pillar_Part15
+    3300014: Pillar_Part16
+    3300016: Pillar_Part17
+    3300018: Pillar_Part18
+    3300020: Pillar_Part19
+    3300022: Pillar_Part2
+    3300024: Pillar_Part20
+    3300026: Pillar_Part21
+    3300028: Pillar_Part22
+    3300030: Pillar_Part23
+    3300032: Pillar_Part24
+    3300034: Pillar_Part25
+    3300036: Pillar_Part26
+    3300038: Pillar_Part27
+    3300040: Pillar_Part28
+    3300042: Pillar_Part29
+    3300044: Pillar_Part3
+    3300046: Pillar_Part30
+    3300048: Pillar_Part4
+    3300050: Pillar_Part5
+    3300052: Pillar_Part6
+    3300054: Pillar_Part7
+    3300056: Pillar_Part8
+    3300058: Pillar_Part9
+    4300000: Pillar_Part1
+    4300002: Pillar_Part2
+    4300004: Pillar_Part3
+    4300006: Pillar_Part4
+    4300008: Pillar_Part5
+    4300010: Pillar_Part6
+    4300012: Pillar_Part7
+    4300014: Pillar_Part8
+    4300016: Pillar_Part9
+    4300018: Pillar_Part10
+    4300020: Pillar_Part11
+    4300022: Pillar_Part12
+    4300024: Pillar_Part13
+    4300026: Pillar_Part14
+    4300028: Pillar_Part15
+    4300030: Pillar_Part16
+    4300032: Pillar_Part17
+    4300034: Pillar_Part18
+    4300036: Pillar_Part19
+    4300038: Pillar_Part20
+    4300040: Pillar_Part21
+    4300042: Pillar_Part22
+    4300044: Pillar_Part23
+    4300046: Pillar_Part24
+    4300048: Pillar_Part25
+    4300050: Pillar_Part26
+    4300052: Pillar_Part27
+    4300054: Pillar_Part28
+    4300056: Pillar_Part29
+    4300058: Pillar_Part30
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
